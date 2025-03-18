@@ -19,5 +19,5 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>-->
 
-[![Govind's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Govindggupta&theme=github-compact&hide_border=true	)](https://github.com/Govindggupta)
+<!--[![Govind's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Govindggupta&theme=github-compact&hide_border=true	)](https://github.com/Govindggupta)
 
