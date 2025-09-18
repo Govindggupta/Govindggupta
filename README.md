@@ -4,8 +4,8 @@
   </a>
 </h1>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Govindggupta&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" /></p>
+<!-- <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=govindggupta&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" /></p>
 
 
 
