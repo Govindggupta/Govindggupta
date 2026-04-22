@@ -3,8 +3,13 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1200&color=808080&center=true&width=435&lines=Hi%2C+I%27m+Govind+Gupta+%E2%9C%8C%EF%B8%8F" alt="Hi! I'm Govind Gupta" />
   </a>
 </h1>
-<p align = "center"> 
-<a href="https://govindgupta.me" >govindgupta.me</a>
+<p align="center">
+  <a href="https://govindgupta.me">
+    <img src="https://img.shields.io/badge/Portfolio-govindgupta.me-0A7CFF"/>
+  </a>
+  <a href="mailto:contact@govindgupta.me">
+    <img src="https://img.shields.io/badge/Gmail-contact@govindgupta.me-EA4335"/>
+  </a>
 </p>
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=govindggupta&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" /></p>
