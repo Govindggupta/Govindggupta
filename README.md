@@ -7,6 +7,8 @@
   <a href="https://govindgupta.me">
     <img src="https://img.shields.io/badge/Portfolio-govindgupta.me-0A7CFF"/>
   </a>
+</p>
+<p align="center">
   <a href="mailto:contact@govindgupta.me">
     <img src="https://img.shields.io/badge/Gmail-contact@govindgupta.me-EA4335"/>
   </a>
