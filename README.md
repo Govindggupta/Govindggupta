@@ -30,6 +30,6 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>-->
 
-[![Govind's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Govindggupta&theme=github-compact&hide_border=true	)](https://github.com/Govindggupta)
+<!-- [![Govind's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Govindggupta&theme=github-compact&hide_border=true	)](https://github.com/Govindggupta)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Govindggupta&label=Profile%20views&color=0e75b6&style=flat" alt="Govindggutpa" /> </p>
 
